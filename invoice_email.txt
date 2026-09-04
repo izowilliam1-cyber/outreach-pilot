@@ -1,0 +1,23 @@
+Subject: Invoice & next steps — 30‑Day Outreach Pilot for [Company Name]
+
+Hi [Client Name],
+
+Thanks for the call — excited to get started.
+
+Invoice: $299 — 30‑day outreach pilot (50 personalized messages + reply handling + meeting scheduling).
+Invoice link: [PASTE PAYPAL/STRIPE INVOICE LINK HERE]
+Due: Please pay within 48 hours to secure your slot. Pilot start date will be confirmed once payment is received.
+
+Kickoff: We’ll schedule a 15‑minute kickoff to confirm target profile and any existing prospect list. Please pick a time here: [CALENDAR LINK]
+
+If you prefer the booking guarantee option (refund $100 if zero meetings), pay $499 instead and use this invoice link: [PASTE ALTERNATE LINK]
+
+What I’ll need from you:
+- Your ideal client profile (1 paragraph) OR permission to source 50 prospects for +$99
+- Preferred days/times for meetings (your availability)
+
+If you have any questions just reply to this email. Looking forward to delivering meetings for you.
+
+Best,
+[Your name]
+[Phone optional] | [Website or Notion page link]
